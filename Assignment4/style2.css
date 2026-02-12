@@ -1,0 +1,16 @@
+#container {
+    border: 2px solid #555;
+    padding: 10px;
+    margin: 20px;
+}
+
+.created-div {
+    background-color: #eef;
+    border: 1px solid #99f;
+    margin: 5px;
+    padding: 8px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
+    text-align: center;
+}
